@@ -1,0 +1,15 @@
+{
+  "folders": [
+	{
+		"name": "Simon",
+		"path": "."
+	},
+	{
+		"name": "sounds",
+		"path": "../../../Documents/Full Stack Course Angela Yu/Simon Project/Simon Game Challenge Starting Files/sounds"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Simon"
+  }
+}
